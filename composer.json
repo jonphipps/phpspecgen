@@ -1,5 +1,5 @@
 {
-    "name": "njh/phpspecgen",
+    "name": "jonphipps/phpspecgen",
     "description": "phpspecgen is a library for generating HTML documentation for Semantic Web based on ontology definitions in RDFS and OWL.",
     "repositories": [
         {
